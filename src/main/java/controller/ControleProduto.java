@@ -44,9 +44,6 @@ public class ControleProduto {
 
     }
 
-    //public Produto buscar(String nome) { // Alterado para Long, assumindo que o código é o ID
-    //    return produtoDAO.buscar(nome);
-    //}
 
     public void alterar(Long codigo, String novoNome, String novaData, double novoPreco) {
         EntityManager em = emf.createEntityManager();
