@@ -85,7 +85,4 @@ public class ControleProduto {
         }
     }
 
-    public void alterar(String nomeBusca, String nomeAltera, String data, double precoPro) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
 }
