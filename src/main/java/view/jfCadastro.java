@@ -368,13 +368,7 @@ public class jfCadastro extends javax.swing.JFrame {
         // Limpar a tabela antes de adicionar os novos dados
         modelo.setRowCount(0);
 
-        // Buscar todos os produtos
-        //List<Produto> produtos = pro.buscarTodos();
-
-        // Adicionar cada produto na tabela
-        //for (Produto produto : produtos) {
-        //    Object[] dados = { produto.getNome(), produto.getPreco(), produto.getData()// };
-        //    modelo.addRow(dados);
+        
         }
     }
 
